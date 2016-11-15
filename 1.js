@@ -1,3 +1,3 @@
 function fn() {
-    return 'hi'
+    return 'bb'
 }
